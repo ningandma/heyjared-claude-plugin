@@ -1,0 +1,15 @@
+{
+  "name": "heyjared",
+  "displayName": "HeyJared",
+  "version": "0.1.0",
+  "description": "Find media opportunities, research coverage, competitors, and search and AI visibility, and draft evidence-grounded pitches with your HeyJared account.",
+  "author": {
+    "name": "HeyJared",
+    "email": "hey@heyjared.ai",
+    "url": "https://heyjared.ai"
+  },
+  "homepage": "https://heyjared.ai",
+  "repository": "https://github.com/ningandma/heyjared-claude-plugin",
+  "license": "LicenseRef-HeyJared-Proprietary",
+  "keywords": ["media", "pr", "press", "coverage", "journalists", "visibility", "pitch"]
+}

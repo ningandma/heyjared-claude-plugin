@@ -1,0 +1,18 @@
+{
+  "name": "heyjared",
+  "owner": {
+    "name": "HeyJared",
+    "email": "hey@heyjared.ai"
+  },
+  "metadata": {
+    "description": "The HeyJared plugin for Claude."
+  },
+  "plugins": [
+    {
+      "name": "heyjared",
+      "source": "./",
+      "description": "Find media opportunities, research coverage and search and AI visibility, and draft pitches with your HeyJared account.",
+      "category": "productivity"
+    }
+  ]
+}
