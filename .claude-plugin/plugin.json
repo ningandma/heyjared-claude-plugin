@@ -10,6 +10,9 @@
   },
   "homepage": "https://heyjared.ai",
   "privacyPolicyUrl": "https://heyjared.ai/legal/privacy",
+  "termsOfServiceUrl": "https://heyjared.ai/legal/terms",
+  "supportUrl": "https://heyjared.ai/helpcenter",
+  "documentationUrl": "https://github.com/ningandma/heyjared-claude-plugin#readme",
   "repository": "https://github.com/ningandma/heyjared-claude-plugin",
   "license": "LicenseRef-HeyJared-Proprietary",
   "keywords": [
