@@ -9,7 +9,17 @@
     "url": "https://heyjared.ai"
   },
   "homepage": "https://heyjared.ai",
+  "privacyPolicyUrl": "https://heyjared.ai/legal/privacy",
   "repository": "https://github.com/ningandma/heyjared-claude-plugin",
   "license": "LicenseRef-HeyJared-Proprietary",
-  "keywords": ["media", "pr", "press", "coverage", "journalists", "visibility", "pitch"]
+  "keywords": [
+    "media",
+    "pr",
+    "press",
+    "coverage",
+    "journalists",
+    "visibility",
+    "pitch"
+  ],
+  "icon": "./assets/heyjared-logo.png"
 }
